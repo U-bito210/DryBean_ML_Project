@@ -1,0 +1,20 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 数据文件（太大，不上传）
+data/*.xlsx
+
+# IDE 配置
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 虚拟环境
+venv/
+.venv/
+env/
