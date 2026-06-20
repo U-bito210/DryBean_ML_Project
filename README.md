@@ -268,38 +268,38 @@ DryBean_ML_Project/
 └── README.md
 
 <a id="env"></a>
-## 📌环境要求
+## 📌 环境要求
 
-依赖包	版本	用途
-Python	3.8+	运行环境
-pandas	1.3.0+	数据处理
-numpy	1.21.0+	数值计算
-scikit-learn	1.0.0+	机器学习算法（RF、SVM、MLP）
-xgboost	1.5.0+	XGBoost 算法
-lightgbm	3.3.0+	LightGBM 算法
-matplotlib	3.4.0+	图表绘制
-openpyxl	3.0.0+	Excel 文件读取
-joblib	1.1.0+	模型保存与加载
+| 依赖包 | 版本 | 用途 |
+|--------|------|------|
+| Python | 3.8+ | 运行环境 |
+| pandas | 1.3.0+ | 数据处理 |
+| numpy | 1.21.0+ | 数值计算 |
+| scikit-learn | 1.0.0+ | 机器学习算法（RF、SVM、MLP） |
+| xgboost | 1.5.0+ | XGBoost 算法 |
+| lightgbm | 3.3.0+ | LightGBM 算法 |
+| matplotlib | 3.4.0+ | 图表绘制 |
+| openpyxl | 3.0.0+ | Excel 文件读取 |
+| joblib | 1.1.0+ | 模型保存与加载 |
+
 
 <a id="changelog"></a>
 ## 📝 更新日志
 
-日期	更新内容
-2026.06.20	完善 README，增加目录锚点、徽章、核心成果表格和更新日志
-2026.06.19	完成全部 5 种算法实验，生成 17 张图表，完成 GitHub 展示
-2026.06.17	完成数据清洗和特征工程模块，通过所有测试
+| 日期 | 更新内容 |
+|------|---------|
+| 2026.06.20 | 完善 README，增加目录锚点、徽章、核心成果表格和更新日志 |
+| 2026.06.19 | 完成全部 5 种算法实验，生成 17 张图表，完成 GitHub 展示 |
+| 2026.06.17 | 完成数据清洗和特征工程模块，通过所有测试 |
+
 
 <a id="links"></a>
 ## 🔗 链接
 
-GitHub：https://github.com/U-bito210/DryBean_ML_Project
+- GitHub：https://github.com/U-bito210/DryBean_ML_Project
+
 
 <a id="license"></a>
 ## 📄 许可证
 
-
----
-
-## ✅ 提交
-
-```bash
+MIT License
