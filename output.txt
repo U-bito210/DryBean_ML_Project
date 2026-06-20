@@ -1,0 +1,12 @@
+======================================================================
+第 4 步：多算法实验（5种算法）
+======================================================================
+
+正在加载数据...
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\DryBean_ML_Project\run_experiments.py", line 41, in <module>
+    X_train, y_train, X_val, y_val, X_test, y_test, scaler = prepare_features(
+                                                             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\DryBean_ML_Project\src\feature_engineering.py", line 36, in prepare_features
+    print("\u2705 标准化器已保存到 models/scaler.pkl")
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2705' in position 0: illegal multibyte sequence
