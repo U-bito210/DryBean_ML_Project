@@ -247,6 +247,7 @@ python main.py --mode predict --input data/sample.xlsx --output predictions.csv
 
 4.所有图表自动保存至 results/figures/ 目录
 
+
 <a id="structure"></a>
 ## 📁项目结构
 
@@ -266,6 +267,7 @@ DryBean_ML_Project/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+
 
 <a id="env"></a>
 ## 📌 环境要求
