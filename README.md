@@ -23,7 +23,6 @@
 - [项目结构](#structure)
 - [环境要求](#env)
 - [更新日志](#changelog)
-- [作者信息](#author)
 - [链接](#links)
 
 
@@ -249,7 +248,6 @@ python main.py --mode predict --input data/sample.xlsx --output predictions.csv
 4.所有图表自动保存至 results/figures/ 目录
 
 <a id="structure"></a>
-
 ## 📁 项目结构
 
 DryBean_ML_Project/
@@ -270,7 +268,6 @@ DryBean_ML_Project/
 └── README.md
 
 <a id="env"></a>
-
 ## 📌 环境要求
 
 依赖包	版本	用途
@@ -285,7 +282,6 @@ openpyxl	3.0.0+	Excel 文件读取
 joblib	1.1.0+	模型保存与加载
 
 <a id="changelog"></a>
-
 ## 📝 更新日志
 
 日期	更新内容
