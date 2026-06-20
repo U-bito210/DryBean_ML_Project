@@ -616,7 +616,7 @@ python main.py --mode predict --input data/sample.xlsx --output predictions.csv
 
 <a id="structure"></a>
 
-📁 项目结构
+##📁 项目结构
 text
 DryBean_ML_Project/
 ├── data/                     # 原始数据（三个 Excel 文件）
@@ -636,7 +636,7 @@ DryBean_ML_Project/
 └── README.md
 <a id="env"></a>
 
-📌 环境要求
+##📌 环境要求
 依赖包	版本	用途
 Python	3.8+	运行环境
 pandas	1.3.0+	数据处理
@@ -649,7 +649,7 @@ openpyxl	3.0.0+	Excel 文件读取
 joblib	1.1.0+	模型保存与加载
 <a id="changelog"></a>
 
-📝 更新日志
+##📝 更新日志
 日期	更新内容	说明
 2026.06.20	完善 README	增加项目特色、数据预处理流程图、实验图表清单、作者信息
 2026.06.19	完成全部实验	5 种算法全部跑通，生成 17 张实验图表
@@ -658,7 +658,7 @@ joblib	1.1.0+	模型保存与加载
 2026.06.16	项目初始化	搭建工程结构，配置 .gitignore 和 requirements.txt
 <a id="author"></a>
 
-👤 作者信息
+##👤 作者信息
 项目	信息
 课程	机器学习与项目实践（AIT209）
 姓名	欧阳鑫淇
@@ -666,8 +666,5 @@ joblib	1.1.0+	模型保存与加载
 提交日期	2026年6月28日
 <a id="links"></a>
 
-🔗 链接
+##🔗 链接
 GitHub：https://github.com/U-bito210/DryBean_ML_Project
-
-📄 许可证
-MIT License
